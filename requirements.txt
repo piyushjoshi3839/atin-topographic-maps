@@ -1,0 +1,7 @@
+# Versions used for all results in the paper (Python 3.13, CPU)
+torch==2.14.1
+gymnasium[box2d]==1.4.0
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
+scikit-learn==1.9.1
